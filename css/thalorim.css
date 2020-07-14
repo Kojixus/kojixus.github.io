@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'vcr_osd_monoregular';
+    src: url('vcr_osd_mono_1.001-webfont.html') format('woff2'),
+         url('vcr_osd_mono_1.001-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+shadow {
+	font-size: 14px;
+    text-align: center;
+	text-shadow: 1px 1px 8px #000
+}
+
+.list-inline-item {
+  margin: 50px 0;
+}
+
+.list-inline li {
+  margin: auto;
+}
