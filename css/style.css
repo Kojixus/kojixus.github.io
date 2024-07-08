@@ -70,6 +70,12 @@ body {
   margin: 0;
   font-family: Montserrat, sans; }
 
+audio {
+  display: block;
+  width: 100%;
+  max-width: 300px;
+}
+
 .panels {
   display: -webkit-box;
   display: -ms-flexbox;
